@@ -1,4 +1,4 @@
 dependencies:
   - name: node
-    version: 0.0.29
+    version: 0.0.30
     repository: http://artifactory-artifactory.tools:8082/artifactory/generic-local/ibm-toolkit
